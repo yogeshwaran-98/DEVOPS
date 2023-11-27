@@ -1,1 +1,15 @@
+Topics Learnt :
 
+Container Orchestration
+Kubernetes Architecture:
+Managing Pods and Containers
+Deployments and ReplicaSets
+Services and Networking
+Persistent Storage
+ConfigMaps and Secrets
+Helm and Package Management
+Monitoring and Logging
+Security
+Kubernetes in CI/CD Pipelines
+
+and more
