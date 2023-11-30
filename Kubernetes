@@ -1,12 +1,15 @@
 Topics Learnt :
 
 Container Orchestration
-Kubernetes Architecture:
+Kubernetes Architecture
+Kubernetes Objects
 Managing Pods and Containers
 Deployments and ReplicaSets
+Deploment Strategies
 Services and Networking
 Persistent Storage
 ConfigMaps and Secrets
+Ingress
 Helm and Package Management
 Monitoring and Logging
 Security
