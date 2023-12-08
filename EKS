@@ -1,0 +1,18 @@
+Topics Learnt :
+
+EKS Core Objects
+Control Plane
+Node Groups
+Fargate Profiles
+EKS Storage
+Load Balancer - ALB , NLB
+ALB Ingress Controller
+Load Balancer Controller
+Traffic Modes
+Ingress Class
+Network Design using default backend and ingress rules
+Ingress Group
+Fargate
+EKS Cluster Deployment Options
+Horizontal Pod Autoscaler
+Vertical Pod Autoscaler
